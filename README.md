@@ -6,8 +6,8 @@ Can be used on Linux and Windows
 
 # Installation
 mkdir ransomware
-cd ransomware
-git clone https://github.com/Debang5hu/Ransomware.git
-pip install -r requirements.txt
-python3 ransomware.py
+ cd ransomware
+ git clone https://github.com/Debang5hu/Ransomware.git
+ pip install -r requirements.txt
+ python3 ransomware.py
  

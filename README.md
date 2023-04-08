@@ -10,4 +10,4 @@ pip install -r requirements.txt
 make sure you have python installed then type the following command
 python3 ransomware.py
 
-#enjoy 
+enjoy 

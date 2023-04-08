@@ -4,14 +4,10 @@ more  updates to come.
 
 Can be used on Linux and Windows
 
-make a new directory and clone the repo there
-
-# for installing the modules  
+# Installation
+mkdir ransomware
+cd ransomware
+git clone https://github.com/Debang5hu/Ransomware.git
 pip install -r requirements.txt
-
-# Running the script
-make sure you have python installed then type the following command
 python3 ransomware.py
-
-
-enjoy 
+ 
